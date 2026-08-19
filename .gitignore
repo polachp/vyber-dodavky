@@ -1,0 +1,9 @@
+# osobní kontext projektu, nepublikovat
+CLAUDE.md
+
+# smetiště se zastaralými dokumenty
+_to_delete/
+
+# python
+__pycache__/
+*.pyc

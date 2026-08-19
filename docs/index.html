@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Srovnání favoritů z mobile.de</title>
+<style>
+:root{
+  --bg:#0f1113; --panel:#16191d; --panel2:#1b1f24; --line:#2a3038;
+  --fg:#e6e9ed; --muted:#9aa4b0; --accent:#e8b64c; --accent2:#5aa9e6;
+  --good:#5fbf7a; --warn:#e0705a;
+}
+@media (prefers-color-scheme: light){
+  :root{
+    --bg:#f6f7f9; --panel:#ffffff; --panel2:#f0f2f5; --line:#dde1e7;
+    --fg:#1a1d21; --muted:#5c6672; --accent:#b8860b; --accent2:#1d6fb8;
+    --good:#237a3d; --warn:#b53d26;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; padding:0 20px 80px;
+  background:var(--bg); color:var(--fg);
+  font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.wrap{max-width:1180px;margin:0 auto}
+h1{font-size:31px;line-height:1.2;margin:40px 0 6px;letter-spacing:-.02em}
+h2{font-size:23px;margin:44px 0 14px;padding-bottom:9px;border-bottom:2px solid var(--line);letter-spacing:-.01em}
+h3{font-size:18px;margin:30px 0 10px;color:var(--accent)}
+p{margin:12px 0}
+a{color:var(--accent2);text-decoration:none;border-bottom:1px solid transparent}
+a:hover{border-bottom-color:currentColor}
+strong{color:var(--fg);font-weight:650}
+em{color:var(--muted)}
+hr{border:0;border-top:1px solid var(--line);margin:40px 0}
+ol,ul{padding-left:22px}
+li{margin:7px 0}
+code{background:var(--panel2);padding:2px 6px;border-radius:4px;font-size:.88em}
+
+.tablewrap{overflow-x:auto;margin:18px 0;border:1px solid var(--line);border-radius:10px;background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-size:14.5px}
+th,td{padding:10px 13px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+thead th{
+  background:var(--panel2);font-weight:650;font-size:12.5px;
+  text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+  white-space:nowrap;position:sticky;top:0;z-index:1
+}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--panel2)}
+/* krátké buňky (čísla, data, ceny) se nezalamují */
+td.nb{white-space:nowrap}
+tr.pick{background:rgba(232,182,76,.09)}
+tr.pick:hover{background:rgba(232,182,76,.15)}
+tr.pick td:nth-child(3){font-weight:650}
+
+.meta{color:var(--muted);font-size:14.5px}
+.legend{
+  display:inline-block;margin:14px 0 0;padding:9px 14px;
+  background:var(--panel);border:1px solid var(--line);border-radius:8px;font-size:14px
+}
+.footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);
+  color:var(--muted);font-size:13px}
+@media(max-width:640px){
+  body{padding:0 12px 60px} h1{font-size:25px} h2{font-size:20px}
+  table{font-size:13px} th,td{padding:8px 9px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Srovnání favoritů z mobile.de</h1>
+<p>Vybírám ojetou dodávku jako náhradu za Ford Transit Custom L2H1. Vozí se v ní dvě motorky
+s bagáží, párkrát do roka pět lidí a spaní vzadu. Tohle je srovnání čtyř konkrétních nabídek,
+mezi kterými se rozhoduju. <strong>Když v tom vidíš něco, co jsem přehlédl, nebo máš s některým
+z těch aut zkušenost, ozvi se.</strong></p>
+<p>Stav k 19. 8. 2026. Kurz 24,255 Kč/EUR. Neplátce DPH, nákup soukromě.
+Ceny jsou celkové pro nás, tedy včetně dovozu. Údaje vytažené z inzerátů 19. 8. 2026.</p>
+<p><strong><a href="https://www.mobile.de/park/compare?id=40601665838112&amp;id=460767109&amp;id=461325035&amp;id=456812287">Porovnání všech čtyř vedle sebe na mobile.de</a></strong></p>
+<h2>Přehled</h2>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th></th>
+<th>Vůz</th>
+<th>Cena EUR</th>
+<th><strong>Celkem</strong></th>
+<th>1. reg.</th>
+<th>Nájezd</th>
+<th>km/rok</th>
+<th>Motor</th>
+<th>Stav</th>
+<th><small>Místo, vzdál. PL / PR</small></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="nb"><strong>A</strong></td>
+<td><a href="https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&amp;lang=en">Ford Transit Custom Kombi Trend L2</a></td>
+<td class="nb">22 500</td>
+<td class="nb"><strong>~565 tis.</strong></td>
+<td class="nb">2020</td>
+<td class="nb">115 tis.</td>
+<td class="nb">19 tis.</td>
+<td>2.0 EcoBlue 125 kW, automat</td>
+<td class="nb">opravená nehoda</td>
+<td class="nb"><a href="https://www.google.com/maps/search/?api=1&amp;query=Kirchstra%C3%9Fe+34%2C+88480+Achstetten-Stetten%2C+Germany">Achstetten</a> <small>303 / 387 km</small></td>
+</tr>
+<tr>
+<td class="nb"><strong>B</strong></td>
+<td><a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&amp;lang=en">Ford Tourneo Custom 310 L2 Titanium</a></td>
+<td class="nb">22 299</td>
+<td class="nb"><strong>~565 tis.</strong></td>
+<td class="nb">2018</td>
+<td class="nb">119 tis.</td>
+<td class="nb">14 tis.</td>
+<td class="nb">2.0 TDCi 125 kW, automat</td>
+<td class="nb">inzerát nesedí</td>
+<td class="nb"><a href="https://www.google.com/maps/search/?api=1&amp;query=Untergath+188%2C+47805+Krefeld%2C+Germany">Krefeld</a> <small>513 / 572 km</small></td>
+</tr>
+<tr>
+<td class="nb"><strong>C</strong></td>
+<td class="nb"><a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&amp;lang=en">VW T6 Mixto Lang</a></td>
+<td class="nb">19 900</td>
+<td class="nb"><strong>~500 tis.</strong></td>
+<td class="nb">2017</td>
+<td class="nb">125 tis.</td>
+<td class="nb">13,8 tis.</td>
+<td class="nb">2.0 TDI 110 kW, DSG</td>
+<td class="nb">nejstarší auto v poli</td>
+<td class="nb"><a href="https://www.google.com/maps/search/?api=1&amp;query=Salzunger+Stra%C3%9Fe+49%2C+36456+Immelborn%2C+Germany">Immelborn</a> <small>250 / 307 km</small></td>
+</tr>
+<tr>
+<td class="nb"><strong>D</strong></td>
+<td><a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&amp;lang=en">Renault Trafic Combi L2H1 Life</a></td>
+<td class="nb">19 992</td>
+<td class="nb"><strong>~508 tis.</strong></td>
+<td class="nb">2021</td>
+<td class="nb">148 tis.</td>
+<td class="nb">27 tis.</td>
+<td class="nb">2.0 dCi 107 kW, EDC</td>
+<td class="nb"><strong>rezervovaný</strong></td>
+<td class="nb"><a href="https://www.google.com/maps/search/?api=1&amp;query=Hardt+146%2C+40764+Langenfeld%2C+Germany">Langenfeld</a> <small>480 / 541 km</small></td>
+</tr>
+</tbody>
+</table></div>
+<p><em>Místo vede na adresu prodejce v Google Maps, vzdálenost je vzdušnou čarou z Plzně a z Prahy. Cena „Celkem" už dovoz obsahuje:
+15 až 20 tis. Kč u A a C, 22 až 25 tis. u B a D (přes 800 km po silnici, dvoudenní cesta).</em></p>
+<h2>Co hledám</h2>
+<p><strong>Podmínky:</strong></p>
+<ul>
+<li>dlouhá varianta karoserie, L2 u Fordu, Lang u VW, krátké verze neřeším</li>
+<li>motor kolem 2.0 diesel</li>
+<li>nákladový prostor, který pobere dvě motorky s bagáží, a sedačky, které jde vyndat</li>
+</ul>
+<p><strong>Výhodou:</strong></p>
+<ul>
+<li><strong>Euro 6.</strong> Není to podmínka, ale Euro 5 sráží zůstatkovou hodnotu a do budoucna
+  omezuje vjezd do nízkoemisních zón v západní Evropě, takže se musí projevit v ceně</li>
+<li><strong>tažné zařízení</strong></li>
+<li><strong>dvě samostatná sedadla vpředu</strong>, ne lavice 2+1. Splňují to všichni čtyři kandidáti:
+  u A a B je jednotlivé sedadlo spolujezdce doložené ze sedadlového paketu (16A, resp. 30),
+  u C a D je odvozené z počtu a rozdělení míst, ne z výbavového listu</li>
+</ul>
+<h2>A, Ford Transit Custom Kombi Trend L2, 08/2020</h2>
+<p>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/36/36cfcc50-1e0f-459e-9e7c-4965a9d97d3d?rule=mo-360" width="210" alt="Ford Transit Custom Trend 2020" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/48/48f381e6-7828-429d-b462-52dc47764533?rule=mo-360" width="210" alt="Ford Transit Custom Trend 2020" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/46/465d3efd-e9aa-4781-b308-604ac53574aa?rule=mo-360" width="210" alt="Ford Transit Custom Trend 2020" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+</p>
+
+<p><strong>Pro:</strong></p>
+<ul>
+<li>1 majitel, plná servisní historie, STK do <strong>08/2027</strong></li>
+<li><strong>pevné tažné</strong>, 13pólové</li>
+<li>Euro 6d-TEMP, bez rozporů v inzerátu</li>
+<li>L2 potvrzeno v popisu, 7 míst, obě posuvné dveře</li>
+<li>nezávislé topení, bi-xenony, kamera, dvouzónová klima, střešní okno, SYNC 3</li>
+<li>automat je <strong>klasický měnič SelectShift</strong>, ne dvouspojka</li>
+<li>cena 22 500 brutto (18 908 netto + DPH), mobile.de ji značí „Fair price"</li>
+<li>prodává firma, která vůz sama používala (Wilhelm Gebäudeservice GmbH), ne bazar</li>
+<li>jako jediný ze čtyř prodejce o historii vozu sám něco napsal</li>
+</ul>
+<p><strong>Proti:</strong></p>
+<ul>
+<li><strong>opravená nehoda.</strong> Prodejce: <em>„leichter Unfallschaden, fachgerecht und vollumfänglich
+  in einer Ford-Fachwerkstatt repariert"</em>. Rozsah ani díly neuvedené</li>
+<li>jen přední airbagy</li>
+<li>opotřebení interiéru a karoserie odpovídající stáří, přiznává prodejce</li>
+<li>jižní Německo, 303 km vzdušnou čarou z Plzně</li>
+</ul>
+<h2>B, Ford Tourneo Custom 310 L2 Titanium, 04/2018</h2>
+<p>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/30/30db1398-8b3d-45d3-9baf-9dd3c11c7011?rule=mo-360" width="210" alt="Ford Tourneo Custom Titanium 2018" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/a3/a3f8e3c8-340f-49cc-b7e1-1ccf624b400b?rule=mo-360" width="210" alt="Ford Tourneo Custom Titanium 2018" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/98/9814c7b5-ebb2-4ae1-9a2b-e0fa9900cf2e?rule=mo-360" width="210" alt="Ford Tourneo Custom Titanium 2018" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+</p>
+
+<p><strong>Pro:</strong></p>
+<ul>
+<li>nejbohatší výbava z celého pole, Titanium</li>
+<li>rozvor 3300 mm, tedy L2 potvrzeno z dat, stejná kostra jako dosavadní vůz</li>
+<li>plná servisní historie, čerstvá STK, nejnižší roční nájezd (14 tis. km)</li>
+<li><strong>boční airbagy</strong> vpředu (sedadlový paket 30)</li>
+<li>
+<ol start="3">
+<li>řada dělená, jednotlivé vpravo a dvojsedadlo vlevo</li>
+</ol>
+</li>
+<li>nezávislé topení, bi-xenony, kamera, dvojitá klima, parkovací senzory vpředu i vzadu</li>
+</ul>
+<p><strong>Proti, a je toho hodně:</strong></p>
+<ul>
+<li><strong>Euro 5 versus Euro 6.</strong> Technická data uvádějí Euro 5, výbavový list ve stejném
+  inzerátu Euro 6. Euro 6 není podmínka, takže vůz při Euro 5 nepadá, ale musí to jít
+  z ceny. Jak moc, se pozná až podle toho, co ukáže technický průkaz</li>
+<li><strong>počet míst nesedí.</strong> Inzerát uvádí 9, z fotek to vypadá na 8</li>
+<li><strong>chybí zaškrtnutí „bezhavarijní"</strong>, které C i D mají</li>
+<li><strong>tažné není</strong>, jen příprava</li>
+<li>2 majitelé</li>
+<li>popis prodejce neobsahuje o voze ani větu, je to šablona s telefony a výbavou z výrobního listu</li>
+<li><em>„Verkauf erfolgt an Gewerbetreibende"</em>, soukromému kupci se <strong>za nevyčíslený příplatek</strong>
+  povinně přidává záruční pojištění. Cena 22 299 nemá uvedené netto a mobile.de ji nehodnotí</li>
+<li>Krefeld, 513 km vzdušnou čarou z Plzně, po silnici přes 800 km, dvoudenní cesta</li>
+</ul>
+<p>Tři nesrovnalosti v jednom inzerátu nejsou náhoda. Žádný údaj odtud se nedá použít
+bez ověření z dokladů.</p>
+<h2>C, VW T6 Mixto Lang, 07/2017</h2>
+<p>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/e0/e0e1cc50-c3eb-4821-8654-ba7699f04aa2?rule=mo-360" width="210" alt="VW T6 Mixto Lang 2017" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/59/590c3cf5-855e-4405-9a5c-600e047501e1?rule=mo-360" width="210" alt="VW T6 Mixto Lang 2017" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/ad/add19166-e0a4-4815-8849-374ec1032968?rule=mo-360" width="210" alt="VW T6 Mixto Lang 2017" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+</p>
+
+<p><strong>Pro:</strong></p>
+<ul>
+<li><strong>zadní sedadla jednotlivé a dvojité, každé vyndatelné zvlášť</strong>, nejlepší řešení z pole
+  pro vožení motorek</li>
+<li>1 majitel, německý vůz, „bezhavarijní", STK „New", <strong>čerstvě odservisováno</strong></li>
+<li>brzděný přívěs <strong>2 500 kg</strong>, nejvíc z pole</li>
+<li>nejnižší roční nájezd z pole, 13,8 tis. km</li>
+<li>nejblíž, Durynsko, 250 km vzdušnou čarou z Plzně, nejlevnější dovoz</li>
+<li>nejnižší celková cena, ~500 tis.</li>
+</ul>
+<p><strong>Proti:</strong></p>
+<ul>
+<li>nejstarší auto v poli, 07/2017</li>
+<li><strong>jen pravé posuvné dveře</strong></li>
+<li>jen přední airbagy</li>
+<li>5 míst, tedy pro pět lidí a spaní bez rezervy</li>
+<li>DSG, olej po 60 tis. km, doložení chybí</li>
+<li>zadní otvor o 14 cm užší než u Traficu (z dřívějšího měření rozměrů)</li>
+</ul>
+<h2>D, Renault Trafic Combi L2H1 Life, 01/2021, rezervovaný</h2>
+<p>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/2b/2b15136b-01cb-44b1-80eb-e7907f3b6c3c?rule=mo-360" width="210" alt="Renault Trafic Combi Life 2021" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/12/12370272-7060-4c05-a97f-58a95006bdd1?rule=mo-360" width="210" alt="Renault Trafic Combi Life 2021" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/45/45b93bce-1ea5-4e5b-b286-09e16650c02b?rule=mo-360" width="210" alt="Renault Trafic Combi Life 2021" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+</p>
+
+<p><strong>Rezervovaný</strong>, ověřeno vlastním dotazem u prodejce 19. 8. 2026. Zájem je nejmenší
+z celého pole, drží se jen jako poslední záloha.</p>
+<p><strong>Pro:</strong></p>
+<ul>
+<li>nejmladší v poli, 1 majitel, „bezhavarijní", STK do 01/2027</li>
+<li><strong>gumová podlaha</strong> v nákladovém i kabinovém prostoru</li>
+<li>boční a hlavové airbagy vpředu, Full-LED</li>
+<li>pevné tažné, brzděný přívěs 2 000 kg</li>
+<li>prodejce na mobile.de od roku 2000, 4,6/5, 100 % „vozidlo odpovídalo popisu"</li>
+</ul>
+<p><strong>Proti:</strong></p>
+<ul>
+<li>rezervovaný, tedy fakticky nedostupný</li>
+<li>148 tis. km, 27 tis. km ročně, nejvyšší nájezd z pole</li>
+<li><strong>dvouspojková EDC</strong>, interval servisu neověřený</li>
+<li><strong>trojlavice ve 2. i 3. řadě</strong>, jeden člověk je nevyndá</li>
+<li>v inzerátu žádný text o stavu ani servisu, jen výbavový list</li>
+</ul>
+<h2>Závěr</h2>
+<p><strong>A je první volba.</strong> Za stejné peníze jako B je o dva roky mladší, má o majitele míň,
+skutečné tažné, jasnou emisní normu a jediného prodejce, který o voze něco napsal.
+<strong>Rozhoduje o něm jedna věc: rozsah opravené nehody.</strong> „Lehká, opravená v Ford servisu"
+je tvrzení, ne doklad, a v ceně zohledněné není, vůz stojí jako bezhavarijní kusy.</p>
+<p><strong>B je druhý hlavně proto, že je to Ford L2</strong>, tedy stejná kostra jako dosavadní vůz
+a nejlepší zadní otvor z pole. Výbavu má nejlepší, ale platí se za něj cena vozu o dva roky
+mladšího, a to při ceníku, který zatím nikdo nepotvrdil. Odpověď na Euro 5 versus Euro 6
+o něm nerozhoduje, rozhoduje o tom, kolik má jít z ceny dolů.</p>
+<p><strong>C je nejlevnější a nejlépe vyřešené vzadu</strong>, jednotlivě vyjímatelné sedačky jsou
+pro motorky ideální. Drží ho zpátky stáří, jedny posuvné dveře a užší zadní otvor.</p>
+<p><strong>D se drží jen jako poslední záloha</strong>, rezervace navíc znamená, že se s ním teď
+nedá počítat vůbec.</p>
+<h2>Další krok, v tomhle pořadí</h2>
+<ol>
+<li><strong>Napsat do Achstettenu</strong> (Wilhelm Gebäudeservice GmbH) a vyžádat <strong>doklad o opravě nehody</strong>,
+   fakturu nebo zakázkový list z Ford servisu. Zajímá rozsah a jaké díly. Zároveň výpis
+   z Ford servisní historie kvůli <strong>rozvodovému řemenu</strong> (2.0 EcoBlue ho má v olejové lázni,
+   u tohohle motoru je známé riziko, že se rozpadající řemen dostane do olejového okruhu;
+   rozsah dotčených ročníků nemám ověřený) a kvůli <strong>oleji v automatu</strong> včetně proplachu</li>
+<li><strong>Podle odpovědi domluvit prohlídku s tloušťkoměrem</strong> po celém obvodu. U vozu s přiznanou
+   nehodou to není volitelné. Ověřit i to, jestli nehoda není zapsaná ve Fahrzeugbrief</li>
+<li><strong>Napsat do Krefeldu</strong>: <strong>Euro 5, nebo Euro 6</strong> podle technického průkazu, kolik je
+   opravdu míst, a <strong>konečná cena pro soukromou osobu</strong> včetně toho záručního pojištění.
+   Při Euro 5 chtít slevu, srovnatelné Euro 5 vozy stojí znatelně míň než Euro 6</li>
+<li><strong>Přeměřit vlastní motorky</strong> ve třech výškách: kola, stupačky, řídítka. Podle toho porovnat
+   zadní otvor a délku podlahy u A a B</li>
+<li><strong>U C si vyžádat doložení servisu DSG</strong> (olej po 60 tis. km), pokud A i B zaváhají</li>
+</ol>
+<h2>Rozměry nákladového prostoru</h2>
+<p>Referenční vůz je dosavadní Ford Transit Custom L2H1. Hodnoty v cm, rozdíl proti Fordu
+v závorce. A i B jsou Ford Transit/Tourneo Custom L2, tedy referenční řádek.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Vůz</th>
+<th>Ložná délka</th>
+<th>Mezi podběhy</th>
+<th>Vnitřní výška</th>
+<th>Zadní otvor š × v</th>
+<th>Nakládací hrana</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Ford Transit/Tourneo Custom L2</strong> (A, B)</td>
+<td class="nb">292</td>
+<td class="nb">139</td>
+<td class="nb">141</td>
+<td class="nb">140 × 135</td>
+<td class="nb">58</td>
+</tr>
+<tr>
+<td class="nb">VW Transporter T6 Lang (C)</td>
+<td class="nb">298 (+6)</td>
+<td class="nb">124 (−15)</td>
+<td class="nb">141 (0)</td>
+<td class="nb">~125 (−15) × ~130</td>
+<td class="nb">~57</td>
+</tr>
+<tr>
+<td class="nb">Renault Trafic L2 (D)</td>
+<td class="nb">294 (+2)</td>
+<td class="nb">127 (−12)</td>
+<td class="nb">139 (−2)</td>
+<td class="nb">139 (−1) × 132</td>
+<td class="nb">55 (−3)</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li><strong>rozhoduje délka a šířka zadního otvoru</strong>, ne šířka mezi podběhy. Podběh sahá 35 až 40 cm
+  nad podlahu, ve výšce řídítek je plná vnitřní šířka (u T6 kolem 169 cm). Mezi podběhy
+  limituje jen to, co je nízko: kola, stupačky, nášlapy</li>
+<li>verze Combi mohou mít vnitřní výšku o 2 až 4 cm nižší kvůli čalounění</li>
+<li>rozměry T6 označené ~ nejsou ověřené z primárního zdroje</li>
+<li>pro srovnání, kdyby se pole otevřelo znovu: Vivaro / Proace / Scudo mají zadní otvor
+  128 × 122 cm, výrazně nejmenší z trhu, Mercedes Vito L3 má nejdelší podlahu, 306 cm</li>
+</ul>
+<h2>Vyřazeno</h2>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Vůz</th>
+<th>Důvod</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ford Tourneo Custom, FB, Mohelnice, 399 tis.</td>
+<td>vyřazeno rozhodnutím 19. 8. 2026, hledání se přesunulo na mobile.de</td>
+</tr>
+<tr>
+<td>Ford Tourneo Custom L2 125 kW, FB, Pardubice, 599 tis.</td>
+<td>cena nad trhem, tažné jen 1 100 kg, dodělaná neoriginální světla bez dokladu</td>
+</tr>
+<tr>
+<td>VW T6 Caravelle, Bazoš, Přerov, 599 tis.</td>
+<td>nejvyšší nájezd, dvě pojistné události</td>
+</tr>
+<tr>
+<td>VW T6.1 Kombi LR, mobile.de, ~595 tis.</td>
+<td>nejmenší riziko z celého pole, ale o 90 tis. dráž než Trafic</td>
+</tr>
+</tbody>
+</table></div>
+<p>T6.1 je jediný z vyřazených, ke kterému má smysl se vrátit, pokud padnou A i B.</p>
+<hr />
+<p><em>Náhledy a odkazy míří přímo na mobile.de. Až prodejce inzerát stáhne, přestanou fungovat.</em></p>
+<div class="footer">Generováno z <code>srovnani-4-favorite-mobilede.md</code> pomocí <code>build-web.py</code>.
+Zdroj i historie jsou v tomhle repozitáři.</div>
+</div>
+</body>
+</html>
