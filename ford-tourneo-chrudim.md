@@ -3,7 +3,7 @@
 Podrobnosti k jedinému českému vozu v poli. Souhrnné srovnání se všemi ostatními
 je v `srovnani-4-favorite-mobilede.md`, tenhle soubor je jen k němu.
 
-Stav k 20. 8. 2026. Zdroje: inzerát na Bazoši (č. 221023382, topován 4. 8. 2026),
+Stav k 21. 8. 2026. Zdroje: inzerát na Bazoši (č. 221023382, topován 4. 8. 2026),
 totožný inzerát na FB Marketplace (vystaven před 18 týdny, tedy zhruba polovina dubna)
 a **report z registru na [OvěřeníAuta.cz](https://www.overeniauta.cz/vin/6E16471)**
 (čteno 20. 8. 2026). Prodává soukromá osoba, Tomáš Sládek, Chrudim, na FB uvedené Pardubice.
@@ -25,7 +25,7 @@ a **report z registru na [OvěřeníAuta.cz](https://www.overeniauta.cz/vin/6E16
 |---|---|
 | Cena | 599 000 Kč, prodej soukromou osobou |
 | Do provozu | 5/2018 |
-| Nájezd | **57 000 km**, ověřeno z fotky tachometru |
+| Nájezd | **59 000 km** podle nadpisu inzerátu k 21. 8. 2026, do 20. 8. tam stálo 57 000. Ověřit na místě z tachometru |
 | Motor | 2.0 EcoBlue, 125 kW, automat |
 | Karoserie | L2, nejdelší verze |
 | Míst | 8, druhá a třetí řada v uspořádání 2+1 |
@@ -93,7 +93,7 @@ u převodů. Každý sedí na několik dní před zápisem změny vlastníka.
 | 6/2018 až 7/2021 | 24 379 | ~7 840 |
 | 8/2021 až 5/2022 | 9 706 | ~12 300 |
 | 5/2022 až 9/2024 | 19 262 | ~8 410 |
-| **9/2024 až dnes** (57 tis. dle inzerátu) | **3 400** | **~1 750** |
+| **9/2024 až dnes** (59 tis. dle inzerátu) | **5 400** | **~2 800** |
 
 ### Historie vlastnictví
 
@@ -154,7 +154,7 @@ pak nejspíš historka, kterou si někdo po cestě přidal, ne úmyslná lež so
 
 **Dobré:**
 
-- **57 tis. km je věrohodné.** Pět zápisů v čase, plynulý průběh, žádný skok ani pokles.
+- **Nájezd je věrohodný.** Pět zápisů v čase, plynulý průběh, žádný skok ani pokles.
   Tohle byla hlavní otevřená otázka a je zodpovězená
 - **Vůz je český od nova**, žádný dovoz, žádná neověřitelná část života
 - L2, 125 kW, 1995 cm³, 5/2018, modrá: **inzerát nikde nepřehání**
@@ -162,7 +162,7 @@ pak nejspíš historka, kterou si někdo po cestě přidal, ne úmyslná lež so
 
 **Špatné, a je to nové:**
 
-- **Od 9/2024 auto najelo asi 3 400 km, tedy ~1 750 km ročně.** Skoro dva roky prakticky
+- **Od 9/2024 auto najelo asi 5 400 km, tedy ~2 800 km ročně.** Skoro dva roky prakticky
   stojí. Nepodpírá to jen chybějící dálniční známka, ale i to, že prodejce musel v 6/2026
   plnit klimatizaci, což je typická příprava stojícího vozu k prodeji
 - **Tvrzení „olej každý rok po 10 tis. km" na poslední dva roky nesedí.** Není to lež,
@@ -176,8 +176,8 @@ pak nejspíš historka, kterou si někdo po cestě přidal, ne úmyslná lež so
 
 ## Proč je to pořád zajímavé
 
-- **57 tis. km na osmiletém voze, teď doložených z registru.** Poloviční nájezd proti všem
-  ostatním kandidátům, a to je auto o dva roky mladší než VW T6 Mixto
+- **59 tis. km na osmiletém voze, s nájezdem doloženým z registru.** Zhruba poloviční nájezd
+  proti kandidátu B, jedinému, kdo v poli zbyl
 - **Servis převodovky je doložený.** Olej v automatu s proplachem je přesně věc,
   kterou u B, C i D sháníme a nemáme
 - **Bez dovozu.** Žádná cesta pro auto, žádná evidenční kontrola, žádný překlad dokladů.
@@ -224,6 +224,12 @@ pak nejspíš historka, kterou si někdo po cestě přidal, ne úmyslná lež so
 
 Srovnatelné vozy z Německa vycházejí po dovozu na 562 až 603 tis. Kč, ale s nájezdem
 kolem 115 až 120 tis. km. Za poloviční kilometráž má prémie smysl.
+
+**21. 8. 2026 se pole propadlo z pěti vozů na dva**, C i D jsou prodané a E rezervovaný.
+Zbývá jen kandidát B za ~565 tis. Levná alternativa za 500 tis. tím pádem neexistuje
+a argument „za tohle můžu mít VW o sto tisíc levněji“ nemá čím být podložen. Věcné páky
+na cenu (18 týdnů na trhu, STK do měsíce, dva roky stání, prodej bez záruky) platí dál,
+ale tlak z konkurenční nabídky zmizel. Zároveň to znamená, že s prohlídkou nemá smysl otálet.
 
 Report uvádí orientační tržní hodnotu **600 tis. Kč** (pásmo 550 až 650). Je to algoritmický
 odhad, u kterého nevím, jestli zohledňuje konkrétní nájezd a stav, takže ho neberu jako

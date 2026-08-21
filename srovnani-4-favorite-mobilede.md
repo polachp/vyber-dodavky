@@ -1,24 +1,44 @@
 # Srovnání favoritů
 
 Stav k 21. 8. 2026. Kurz 24,255 Kč/EUR. Neplátce DPH, nákup soukromě.
-Ceny jsou celkové pro nás, tedy včetně dovozu. Údaje z inzerátů vytažené 19. 8. 2026,
-u kandidáta A doplněné z registru vozidel 20. 8. 2026.
+Ceny jsou celkové pro nás, tedy včetně dovozu.
 
-**[Porovnání čtyř vozů z mobile.de vedle sebe](https://www.mobile.de/park/compare?id=40601665838112&id=460767109&id=461325035&id=456812287)**
+**21. 8. 2026 se pole propadlo z pěti vozů na dva** a hned zase doplnilo na tři.
+C i D jsou na mobile.de označené „This vehicle is not available anymore", tedy prodané
+nebo stažené. E hlásí „temporarily unavailable", což je stav pro rezervované inzeráty.
+Přibyli tři noví kandidáti a dva z nich hned padli na tvrdém kritériu: **G je L1**,
+tedy krátká karoserie, a **H má vepředu trojlavici**. Oba jsou v sekci Vyřazeno.
+Do pole se přidal jen **F** z AutoScout24. Zůstávají **A, B a F**.
+
+**21. 8. 2026 přibyla tvrdá podmínka: dvě samostatná sedadla vpředu.** Dosud to byla
+jen výhoda. Vůz s lavicí 2+1 se dál neřeší.
 
 ## Přehled
 
 | | Vůz | Cena | **Celkem** | 1. reg. | Nájezd | km/rok | Motor | Stav | <small>Místo, vzdál. PL / PR</small> |
 |---|---|---|---|---|---|---|---|---|---|
-| **A** | [Ford Tourneo Custom L2 125 kW](https://auto.bazos.cz/inzerat/221023382/ford-tourneo-custom-l2-125kw-57tkm.php) | 599 tis. Kč | **599 tis.** | 5/2018 | **57 tis.** | 8 tis., poslední 2 roky **1,8 tis.** | 2.0 EcoBlue 125 kW, automat | km doložené z registru, dva roky odstavený | <small>[Chrudim](https://www.google.com/maps/search/?api=1&query=537+03+Chrudim%2C+Czechia) 175 / 98 km</small> |
-| **B** | [Ford Transit Custom Kombi Trend L2](https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&lang=en) | 22 500 € | **~565 tis.** | 2020 | 115 tis. | 19 tis. | 2.0 EcoBlue 125 kW, automat | opravená nehoda | <small>[Achstetten](https://www.google.com/maps/search/?api=1&query=Kirchstra%C3%9Fe+34%2C+88480+Achstetten-Stetten%2C+Germany) 303 / 387 km</small> |
-| **C** | [Ford Tourneo Custom 310 L2 Titanium](https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en) | 22 299 € | **~565 tis.** | 2018 | 119 tis. | 14 tis. | 2.0 TDCi 125 kW, automat | inzerát nesedí | <small>[Krefeld](https://www.google.com/maps/search/?api=1&query=Untergath+188%2C+47805+Krefeld%2C+Germany) 513 / 572 km</small> |
-| **D** | [VW T6 Mixto Lang](https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en) | 19 900 € | **~500 tis.** | 2017 | 125 tis. | 13,8 tis. | 2.0 TDI 110 kW, DSG | nejstarší auto v poli | <small>[Immelborn](https://www.google.com/maps/search/?api=1&query=Salzunger+Stra%C3%9Fe+49%2C+36456+Immelborn%2C+Germany) 250 / 307 km</small> |
-| **E** | [Renault Trafic Combi L2H1 Life](https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en) | 19 992 € | **~508 tis.** | 2021 | 148 tis. | 27 tis. | 2.0 dCi 107 kW, EDC | **rezervovaný** | <small>[Langenfeld](https://www.google.com/maps/search/?api=1&query=Hardt+146%2C+40764+Langenfeld%2C+Germany) 480 / 541 km</small> |
+| **A** | [Ford Tourneo Custom L2 125 kW](https://auto.bazos.cz/inzerat/221023382/ford-tourneo-custom-l2-125kw-57tkm.php) | 599 tis. Kč | **599 tis.** | 5/2018 | **59 tis.** | 8 tis., poslední 2 roky **2,8 tis.** | 2.0 EcoBlue 125 kW, automat | km doložené z registru, dva roky odstavený | <small>[Chrudim](https://www.google.com/maps/search/?api=1&query=537+03+Chrudim%2C+Czechia) 175 / 98 km</small> |
+| **B** | [Ford Transit Custom Kombi Trend L2](https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&lang=en) | 22 500 € | **~565 tis.** | 8/2020 | 114,9 tis. | 19 tis. | 2.0 EcoBlue 125 kW, automat | opravená nehoda | <small>[Achstetten](https://www.google.com/maps/search/?api=1&query=Kirchstra%C3%9Fe+34%2C+88480+Achstetten-Stetten%2C+Germany) 303 / 387 km</small> |
+| **F** | [Ford Tourneo Custom 310 L2H1 Titanium](https://www.autoscout24.cz/nabidky/ford-tourneo-custom-tourneo-custom-310-l2h1-va-autm-titanium-diesel-seda-cat_ma29mo74251-083d62d4-e841-46b8-82e0-b9ec5e6b5604) | 23 999 € | **~602 tis.** | 5/2018 | 142,2 tis. | 17,4 tis. | 2.0 TDCi **96 kW**, automat | soukromý prodej, cena k jednání | <small>[Böllenborn](https://www.google.com/maps/search/?api=1&query=76887+B%C3%B6llenborn%2C+Germany) 400 / 479 km</small> |
 
-*Vzdálenost je vzdušnou čarou z Plzně a z Prahy. U A žádný dovoz není, u ostatních cena
-„Celkem" dovoz obsahuje: 15 až 20 tis. Kč u B a D, 22 až 25 tis. u C a E (přes 800 km
-po silnici, dvoudenní cesta).*
+*U A žádný dovoz není. U ostatních cena „Celkem" obsahuje dovoz: 15 až 20 tis. Kč u B,
+20 až 24 tis. u F (asi 600 km po silnici, dvoudenní cesta).
+Vzdálenost je vzdušnou čarou z Plzně a z Prahy.*
+
+**Vypadlo z pole 21. 8. 2026:**
+
+| | Vůz | Poslední známá cena | Stav |
+|---|---|---|---|
+| **C** | Ford Tourneo Custom 310 L2 Titanium, Krefeld | 22 299 € | prodáno nebo staženo |
+| **D** | VW T6 Mixto Lang, Immelborn | 19 900 € | prodáno nebo staženo |
+| **E** | Renault Trafic Combi L2H1 Life, Langenfeld | 19 992 € | „temporarily unavailable", rezervovaný od 19. 8. |
+| **G** | Ford Tourneo Custom 310 L1 Titanium, Schüttorf | 22 980 € | inzerát běží, ale je to **L1**, krátká karoserie |
+| **H** | VW T6.1 Kombi Lang, Schwäbisch Gmünd | 23 650 € | inzerát běží, ale má **trojlavici vpředu** |
+
+**U A se změnil nájezd.** Inzerát 21. 8. uvádí v nadpisu **59 000 km**, dřív 57 tis.
+Buď majitel něco najel, nebo číslo opravil. Poslední doložený stav z registru je 53 600 km
+k 13. 9. 2024, takže i tak jde o zhruba 2 800 km ročně a „dva roky prakticky stojí" platí dál.
+Je to údaj z inzerátu, ne z registru, ověřit na místě z tachometru.
 
 ## Co hledám
 
@@ -27,15 +47,22 @@ po silnici, dvoudenní cesta).*
 - dlouhá varianta karoserie, L2 u Fordu, Lang u VW, krátké verze neřeším
 - motor kolem 2.0 diesel
 - nákladový prostor, který pobere dvě motorky s bagáží, a sedačky, které jde vyndat
+- **dvě samostatná sedadla vpředu, ne lavice 2+1.** Povýšeno z výhody na podmínku
+  21. 8. 2026. Vůz s trojlavicí vpředu se dál neřeší, ani když sedí všechno ostatní
 
 **Výhodou:**
 
 - **Euro 6.** Není to podmínka, ale Euro 5 sráží zůstatkovou hodnotu a do budoucna
   omezuje vjezd do nízkoemisních zón v západní Evropě, takže se musí projevit v ceně
 - **tažné zařízení**
-- **dvě samostatná sedadla vpředu**, ne lavice 2+1. Splňují to všichni kandidáti:
-  u B a C je jednotlivé sedadlo spolujezdce doložené ze sedadlového paketu (16A, resp. 30),
-  u A, D a E je odvozené z počtu a rozdělení míst, ne z výbavového listu
+
+Jak na tom kandidáti se sedadly vpředu jsou:
+
+| | Dvě sedadla vpředu | Zdroj |
+|---|---|---|
+| **A** | ano | odvozeno z rozdělení míst (8 míst, 2. a 3. řada 2+1), ne z výbavového listu |
+| **B** | ano | doložené ze sedadlového paketu 16A, jednotlivé sedadlo spolujezdce |
+| **F** | pravděpodobně ano | v inzerátu „sklopné sedadlo spolujezdce", jednotné číslo. **Nedoložené, ověřit** |
 
 **Co vyřazuje bez dalšího zkoumání:**
 
@@ -64,7 +91,7 @@ a cenová úvaha jsou v samostatném souboru
 
 **Pro:**
 
-- **57 tis. km doložených z registru.** Pět zápisů stavu tachometru mezi 2018 a 2024,
+- **nájezd doložený z registru.** Pět zápisů stavu tachometru mezi 2018 a 2024,
   plynulý průběh, žádný skok ani pokles. Poloviční nájezd proti všem ostatním kandidátům
 - **z registru sedí i všechno ostatní:** L2 potvrzená rozměry (5339 mm, rozvor 3300 mm),
   125 kW, 1995 cm³, 1. registrace 31. 5. 2018 v ČR, modrá, kategorie M1. Inzerát nikde
@@ -80,7 +107,7 @@ a cenová úvaha jsou v samostatném souboru
 **Proti:**
 
 - **nejdražší v poli**, 599 tis. proti 565 tis. u německých Fordů včetně dovozu
-- **od 9/2024 najeto asi 3 400 km, tedy ~1 750 km ročně.** Vůz skoro dva roky stojí.
+- **od 9/2024 najeto asi 5 400 km, tedy ~2 800 km ročně.** Vůz skoro dva roky stojí.
   Podpírá to chybějící dálniční známka i to, že se v 6/2026 plnila klimatizace.
   Počítat s položkami ze stání: pneumatiky podle stáří, akumulátor, brzdy, nasycený DPF
 - **STK vyprší 13. 9. 2026**, tedy do měsíce. Dohromady s nehomologovanými dodělanými
@@ -125,148 +152,119 @@ Vestavbu prodejce nabízí, ale nepotřebujeme ji, vlastní už existuje.
 - opotřebení interiéru a karoserie odpovídající stáří, přiznává prodejce
 - jižní Německo, 303 km vzdušnou čarou z Plzně
 
-## C, Ford Tourneo Custom 310 L2 Titanium, 04/2018
+## F, Ford Tourneo Custom 310 L2H1 Titanium, 05/2018, Böllenborn
 
 <p>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/30/30db1398-8b3d-45d3-9baf-9dd3c11c7011?rule=mo-360" width="210" alt="Ford Tourneo Custom Titanium 2018" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/a3/a3f8e3c8-340f-49cc-b7e1-1ccf624b400b?rule=mo-360" width="210" alt="Ford Tourneo Custom Titanium 2018" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/98/9814c7b5-ebb2-4ae1-9a2b-e0fa9900cf2e?rule=mo-360" width="210" alt="Ford Tourneo Custom Titanium 2018" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://www.autoscout24.cz/nabidky/ford-tourneo-custom-tourneo-custom-310-l2h1-va-autm-titanium-diesel-seda-cat_ma29mo74251-083d62d4-e841-46b8-82e0-b9ec5e6b5604" target="_blank" rel="noopener"><img src="https://prod.pictures.autoscout24.net/listing-images/083d62d4-e841-46b8-82e0-b9ec5e6b5604_d36d9ac5-151c-443a-8176-602eee1554e9.jpg/640x480.jpg" width="210" alt="Ford Tourneo Custom L2H1 Titanium Böllenborn" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://www.autoscout24.cz/nabidky/ford-tourneo-custom-tourneo-custom-310-l2h1-va-autm-titanium-diesel-seda-cat_ma29mo74251-083d62d4-e841-46b8-82e0-b9ec5e6b5604" target="_blank" rel="noopener"><img src="https://prod.pictures.autoscout24.net/listing-images/083d62d4-e841-46b8-82e0-b9ec5e6b5604_5abaf0d1-e17d-4d41-9e96-61d758f684fd.jpg/640x480.jpg" width="210" alt="Ford Tourneo Custom L2H1 Titanium Böllenborn" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
+<a href="https://www.autoscout24.cz/nabidky/ford-tourneo-custom-tourneo-custom-310-l2h1-va-autm-titanium-diesel-seda-cat_ma29mo74251-083d62d4-e841-46b8-82e0-b9ec5e6b5604" target="_blank" rel="noopener"><img src="https://prod.pictures.autoscout24.net/listing-images/083d62d4-e841-46b8-82e0-b9ec5e6b5604_b8904208-ea37-4847-b872-343ed0365000.jpg/640x480.jpg" width="210" alt="Ford Tourneo Custom L2H1 Titanium Böllenborn" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
 </p>
+
+Prodává **soukromá osoba**, rodina, která vůz používala jako rodinné auto a na přepravu.
+Inzerát je na české mutaci AutoScout24, vůz stojí v Porýní-Falci u francouzských hranic.
+[Inzerát](https://www.autoscout24.cz/nabidky/ford-tourneo-custom-tourneo-custom-310-l2h1-va-autm-titanium-diesel-seda-cat_ma29mo74251-083d62d4-e841-46b8-82e0-b9ec5e6b5604) · [Böllenborn v mapě](https://www.google.com/maps/search/?api=1&query=76887+B%C3%B6llenborn%2C+Germany)
 
 **Pro:**
 
-- nejbohatší výbava z celého pole, Titanium
-- rozvor 3300 mm, tedy L2 potvrzeno z dat, stejná kostra jako dosavadní vůz
-- plná servisní historie, čerstvá STK
-- **boční airbagy** vpředu (sedadlový paket 30)
-- 3. řada dělená, jednotlivé vpravo a dvojsedadlo vlevo
-- nezávislé topení, bi-xenony, kamera, dvojitá klima, parkovací senzory vpředu i vzadu
-
-**Proti, a je toho hodně:**
-
-- **Euro 5 versus Euro 6.** Technická data uvádějí Euro 5, výbavový list ve stejném
-  inzerátu Euro 6. Euro 6 není podmínka, takže vůz při Euro 5 nepadá, ale musí to jít
-  z ceny. Jak moc, se pozná až podle toho, co ukáže technický průkaz
-- **počet míst nesedí.** Inzerát uvádí 9, z fotek to vypadá na 8
-- **chybí zaškrtnutí „bezhavarijní"**, které D i E mají
-- **tažné není**, jen příprava
-- 2 majitelé
-- popis prodejce neobsahuje o voze ani větu, je to šablona s telefony a výbavou z výrobního listu
-- *„Verkauf erfolgt an Gewerbetreibende"*, soukromému kupci se **za nevyčíslený příplatek**
-  povinně přidává záruční pojištění. Cena 22 299 nemá uvedené netto a mobile.de ji nehodnotí
-- Krefeld, 513 km vzdušnou čarou z Plzně, po silnici přes 800 km, dvoudenní cesta
-
-Tři nesrovnalosti v jednom inzerátu nejsou náhoda. Žádný údaj odtud se nedá použít
-bez ověření z dokladů.
-
-## D, VW T6 Mixto Lang, 07/2017
-
-<p>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/e0/e0e1cc50-c3eb-4821-8654-ba7699f04aa2?rule=mo-360" width="210" alt="VW T6 Mixto Lang 2017" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/59/590c3cf5-855e-4405-9a5c-600e047501e1?rule=mo-360" width="210" alt="VW T6 Mixto Lang 2017" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/ad/add19166-e0a4-4815-8849-374ec1032968?rule=mo-360" width="210" alt="VW T6 Mixto Lang 2017" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-</p>
-
-**Pro:**
-
-- **zadní sedadla jednotlivé a dvojité, každé vyndatelné zvlášť**, nejlepší řešení z pole
-  pro vožení motorek
-- 1 majitel, německý vůz, „bezhavarijní", STK „New", **čerstvě odservisováno**
-- brzděný přívěs **2 500 kg**, nejvíc z pole
-- nejblíž z německých vozů, Durynsko, 250 km vzdušnou čarou z Plzně, nejlevnější dovoz
-- nejnižší celková cena, ~500 tis.
+- **L2H1 přímo v označení modelu**, tedy dlouhá varianta, stejná kostra jako dosavadní vůz
+- **soukromý prodej a cena výslovně k jednání** („O ceně lze smlouvat"). To je jediný
+  z německých vozů, u kterého se dá čekat sleva 10 až 15 %, tedy 20 až 21,5 tis. € místo 24
+- **Euro 6d-TEMP**, zelená plaketa
+- **úplná servisní historie**, poslední servis 08/2024, TÜV nový do 12/2026
+- 8 míst, **obě posuvné dveře**, tažné zařízení
+- bohatá výbava Titanium: kožený interiér, vyhřívaná sedadla, **vyhřívané čelní sklo**,
+  dvouzónová automatická klimatizace, navigace, Apple CarPlay, kamera i senzory vpředu
+  a vzadu, adaptivní světlomety, plně digitální přístrojovka, 17" alu, zimní balíček
+- **boční airbagy** a airbag vzadu
+- nekuřácké, prodejce sám přiznává opotřebení a škrábanec na zadním pravém bočním skle,
+  což je u inzerátu spíš dobré znamení než špatné
 
 **Proti:**
 
-- nejstarší auto v poli, 07/2017
-- **jen pravé posuvné dveře**
-- jen přední airbagy
-- 5 míst, tedy pro pět lidí a spaní bez rezervy
-- DSG, olej po 60 tis. km, doložení chybí
-- zadní otvor o 14 cm užší než u Fordů
-
-## E, Renault Trafic Combi L2H1 Life, 01/2021, rezervovaný
-
-<p>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/2b/2b15136b-01cb-44b1-80eb-e7907f3b6c3c?rule=mo-360" width="210" alt="Renault Trafic Combi Life 2021" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/12/12370272-7060-4c05-a97f-58a95006bdd1?rule=mo-360" width="210" alt="Renault Trafic Combi Life 2021" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-<a href="https://suchen.mobile.de/fahrzeuge/details.html?id=456812287&lang=en" target="_blank" rel="noopener"><img src="https://img.classistatic.de/api/v1/mo-prod/images/45/45b93bce-1ea5-4e5b-b286-09e16650c02b?rule=mo-360" width="210" alt="Renault Trafic Combi Life 2021" style="border-radius:8px;margin:0 8px 8px 0;vertical-align:top"></a>
-</p>
-
-**Rezervovaný**, ověřeno vlastním dotazem u prodejce 19. 8. 2026. Zájem je nejmenší
-z celého pole, drží se jen jako poslední záloha.
-
-**Pro:**
-
-- nejmladší v poli, 1 majitel, „bezhavarijní", STK do 01/2027
-- **gumová podlaha** v nákladovém i kabinovém prostoru
-- boční a hlavové airbagy vpředu, Full-LED
-- pevné tažné, brzděný přívěs 2 000 kg
-- prodejce na mobile.de od roku 2000, 4,6/5, 100 % „vozidlo odpovídalo popisu"
-
-**Proti:**
-
-- rezervovaný, tedy fakticky nedostupný
-- 148 tis. km, 27 tis. km ročně, nejvyšší nájezd z pole
-- **dvouspojková EDC**, interval servisu neověřený
-- **trojlavice ve 2. i 3. řadě**, jeden člověk je nevyndá
-- v inzerátu žádný text o stavu ani servisu, jen výbavový list
+- **jen 96 kW (131 koní).** Nejslabší motorizace z celého pole, A i B mají 125 kW.
+  Na dvě motorky s bagáží to stačí, ale s přívěsem a plným vozem je rozdíl znát
+- **142 200 km**, druhý nejvyšší nájezd v poli, 17,4 tis. km ročně
+- **nejdražší v poli za inzerovanou cenu.** 23 999 € je po dovozu asi 602 tis. Kč,
+  tedy víc než A a o 37 tis. víc než B. Bez slevy nedává smysl
+- **TÜV jen do 12/2026**, tedy čtyři měsíce
+- **kilometry se nedají ověřit z registru**, je to německý vůz
+- **600 km po silnici, dvoudenní cesta.** Prohlídka a nákup jsou jedna cesta,
+  nebo se jede dvakrát
+- rozvodový řemen a olej v automatu nedoložené, jen „poslední servis 08/2024"
+  bez uvedení obsahu
+- **není ověřeno, jestli jsou zadní sedačky jednotlivé, nebo trojlavice.** U 8místného
+  Tourneo Custom bývá 2+3+3 s trojlavicemi, které jeden člověk nevyndá. **U tohohle vozu
+  je to hlavní otevřená otázka**, protože přímo rozhoduje o použitelnosti pro motorky
 
 ## Závěr
 
-**A zůstává první, ale z jiného důvodu než včera.** Registr potvrdil to, co byla hlavní
-otevřená otázka: 57 tis. km sedí, pět zápisů tachometru mezi 2018 a 2024 jde plynule nahoru,
-žádný zlom. Sedí i L2, výkon, objem, datum a barva. Vůz je český od nova. **Riziko stočeného
-tachometru je vyřešené, a to je věc, kterou u žádného z německých vozů vyřešit nejde.**
+**Pole je zpátky na třech vozech, ale pořadí se nemění. A zůstává první.**
 
-Zároveň registr přinesl dvě nové výhrady, obě řešitelné, obě s cenovkou. **Auto od podzimu 2024
-prakticky stojí**, najelo za dva roky 3 400 km, což znamená typické položky odstaveného vozu.
-A **STK vyprší 13. 9. 2026**, tedy do měsíce, což se nemusí potkat s nehomologovanými
-dodělanými světly. Původním uživatelem byla pečovatelská služba, takže krátké jízdy jsou teď
-doložené, ne odhadované.
+**A, Chrudim.** Registr potvrdil kilometry, L2, výkon i objem, vůz je český od nova
+a je jediný, u kterého jde nájezd ověřit z registru. Proti tomu dvě výhrady s cenovkou:
+od podzimu 2024 prakticky stojí a **STK vyprší 13. 9. 2026**, tedy za tři týdny.
 
-**Cílová hladina 550 až 570 tis. Kč platí, otevřít kolem 530**, a navíc počítat rezervu
-20 až 30 tis. na uvedení stojícího vozu do provozu. Páky na slevu v pořadí podle síly:
-18 týdnů na trhu, STK do měsíce proti nehomologovaným světlům, dvouletý odstavený provoz,
-soukromý prodej bez záruky.
+**B, Achstetten.** Nejlevnější v poli a nejmladší, 8/2020, Euro6d-TEMP, HU do 08/2027,
+prodává firma, která vůz sama používala. Proti: dvojnásobný nájezd než A a přiznaná
+opravená nehoda, kterou zatím nikdo nedoložil.
 
-**B zůstává druhý** a je to pořád dobrá nabídka, jen s dvojnásobným nájezdem, přiznanou
-opravenou nehodou, kterou zatím nikdo nedoložil, a bez možnosti ověřit kilometry z registru.
+**F, Böllenborn, je zajímavý jen s výraznou slevou.** Za inzerovaných 23 999 € vychází
+po dovozu na 602 tis., tedy dráž než A při 2,4násobném nájezdu a s nejslabším motorem
+v poli. Jenže **je to jediný soukromý prodej z německých vozů a cena je výslovně k jednání**.
+Při realistické slevě 10 až 15 % je to 20 až 21,5 tis. €, po dovozu **510 až 545 tis. Kč**,
+a to už je nejlevnější vůz v poli s plnou servisní historií a bohatou výbavou.
+**Celá hodnota téhle nabídky je v tom, o kolik jde dolů. Bez slevy nemá smysl tam jezdit.**
 
-**C je slabý** kvůli třem nesrovnalostem v inzerátu a chybějícímu tažnému.
-**D je levná alternativa** s nejlepším řešením sedaček, ale nejstarší.
-**E se drží jen jako poslední záloha**, rezervace ho stejně vyřazuje z hry.
+**G padá.** Je to L1, krátká karoserie, ložná délka o 34 cm kratší. Škoda, protože má
+doložený vyměněný rozvodový řemen, což je jinak nejdražší nezodpovězená položka
+u všech ostatních.
+
+**Co se tím mění na vyjednávání u A.** Zpátky existuje levnější alternativa, F po slevě.
+Není tak levná jako býval VW T6 za 500 tis. a je to zatím jen odhad, ne nabídka, ale je
+čím argumentovat. **Cílová hladina u A zůstává 550 až 570 tis., otevřít kolem 530**,
+plus rezerva 20 až 30 tis. na uvedení stojícího vozu do provozu.
+
+**Trh se hýbe rychle**, tři z pěti vozů zmizely za dva dny. To platí dál a je to argument
+proti dlouhému ladění ceny přes e-maily.
 
 ## Další krok, v tomhle pořadí
 
-1. **A, zeptat se, proč vůz od podzimu 2024 stojí.** Tohle je teď hlavní otázka.
-   Odpověď rozhoduje, jestli je nízký nájezd výhoda, nebo varování
-2. **A, zeptat se na STK a světla.** Platnost končí 13. 9. 2026. Jestli ji prodejce
-   plánuje protáhnout, a jestli má doklad k dodělaným bi-LED projektorům
-3. **A, domluvit prohlídku v Chrudimi.** 98 km z Prahy, dá se stihnout na půl dne.
-   Tloušťkoměr, podlaha a kotvicí body, DOT kódy pneumatik, akumulátor, brzdové kotouče,
-   chování DPF za jízdy, zkušební jízda s automatem
-4. **A, technický průkaz:** emisní norma, počet míst, datum poslední výměny oleje
-5. **B, doklad o opravě nehody.** Faktura nebo zakázkový list z Ford servisu, ne slovní popis,
-   plus výpis z Ford servisní historie kvůli rozvodovému řemenu (2.0 EcoBlue ho má v olejové
-   lázni, u tohohle motoru je známé riziko, že se rozpadající řemen dostane do olejového
-   okruhu; rozsah dotčených ročníků nemám ověřený) a kvůli oleji v automatu
-6. **C, napsat do Krefeldu**: Euro 5, nebo Euro 6 podle technického průkazu, kolik je
-   opravdu míst, a konečná cena pro soukromou osobu včetně záručního pojištění
-7. **Přeměřit vlastní motorky** ve třech výškách: kola, stupačky, řídítka
-8. **D, doložení servisu DSG**, olej po 60 tis. km, pokud A, B i C zaváhají
+1. **A, domluvit prohlídku v Chrudimi, a to tento týden.** 98 km z Prahy, půl dne.
+   Trh se hýbe rychle
+2. **F, napsat prodejci a rovnou se ptát na cenu.** Jestli je 21 tis. € reálné.
+   Odpověď rozhodne, jestli se vůbec vyplatí jet 600 km. Ve stejném mailu se zeptat na
+   **uspořádání sedaček, vpředu i vzadu.** Vpředu jestli jsou dvě samostatná sedadla,
+   nebo lavice 2+1, to je teď podmínka. Vzadu jestli jsou jednotlivé, nebo trojlavice,
+   a jak jsou uchycené. Obojí u F rozhoduje o všem ostatním
+3. **A, zeptat se, proč vůz od podzimu 2024 stojí** a **co znamená 59 tis. km v nadpisu**
+   proti 57 tis. dřív a 53 600 km z poslední STK
+4. **A, STK a světla.** Platnost končí 13. 9. 2026. Jestli ji prodejce plánuje protáhnout
+   a jestli má doklad k dodělaným bi-LED projektorům
+5. **B, doklad o opravě nehody**, faktura nebo zakázkový list z Ford servisu, ne slovní popis.
+   K tomu výpis z Ford servisní historie kvůli rozvodovému řemenu (2.0 EcoBlue ho má
+   v olejové lázni, u tohohle motoru je známé riziko, že se rozpadající řemen dostane
+   do olejového okruhu; rozsah dotčených ročníků nemám ověřený) a kvůli oleji v automatu
+6. **F, totéž co u B:** rozvodový řemen a olej v automatu. „Poslední servis 08/2024"
+   bez uvedení obsahu není doklad
+7. **A, prohlídka na místě:** tloušťkoměr, podlaha a kotvicí body, DOT kódy pneumatik,
+   akumulátor, brzdové kotouče, chování DPF za jízdy, zkušební jízda s automatem
+8. **A, technický průkaz:** emisní norma, počet míst, datum poslední výměny oleje
+9. **Přeměřit vlastní motorky** ve třech výškách: kola, stupačky, řídítka
+10. **G, jediný dotaz:** jestli Autohaus Klutzny nemá nebo nečeká stejný vůz v L2.
+    Jinak neřešit
 
 ## Rozměry nákladového prostoru
 
 Referenční vůz je dosavadní Ford Transit Custom L2H1. Hodnoty v cm, rozdíl proti Fordu
-v závorce. A, B i C jsou Ford Transit/Tourneo Custom L2, tedy referenční řádek.
+v závorce. A i B jsou Ford Transit/Tourneo Custom L2, tedy referenční řádek. Řádky T6 a Trafic
+zůstávají jako srovnávací měřítko, i když ty konkrétní vozy z pole vypadly.
 U A je L2 potvrzená z registru: celková délka 5339 mm, rozvor 3300 mm.
 
 | Vůz | Ložná délka | Mezi podběhy | Vnitřní výška | Zadní otvor š × v | Nakládací hrana |
 |---|---|---|---|---|---|
-| **Ford Transit/Tourneo Custom L2** (A, B, C) | 292 | 139 | 141 | 140 × 135 | 58 |
-| VW Transporter T6 Lang (D) | 298 (+6) | 124 (−15) | 141 (0) | ~125 (−15) × ~130 | ~57 |
-| Renault Trafic L2 (E) | 294 (+2) | 127 (−12) | 139 (−2) | 139 (−1) × 132 | 55 (−3) |
+| **Ford Transit/Tourneo Custom L2** (A, B) | 292 | 139 | 141 | 140 × 135 | 58 |
+| VW Transporter T6 Lang <small>(D, vyřazen)</small> | 298 (+6) | 124 (−15) | 141 (0) | ~125 (−15) × ~130 | ~57 |
+| Renault Trafic L2 <small>(E, vyřazen)</small> | 294 (+2) | 127 (−12) | 139 (−2) | 139 (−1) × 132 | 55 (−3) |
 
 - **rozhoduje délka a šířka zadního otvoru**, ne šířka mezi podběhy. Podběh sahá 35 až 40 cm
   nad podlahu, ve výšce řídítek je plná vnitřní šířka (u T6 kolem 169 cm). Mezi podběhy
@@ -281,11 +279,17 @@ U A je L2 potvrzená z registru: celková délka 5339 mm, rozvor 3300 mm.
 | Vůz | Důvod |
 |---|---|
 | [Ford Tourneo Custom L2 136 kW, Bazoš, Mělník / Roudnice, 640 tis.](https://auto.bazos.cz/inzerat/222824785/custon.php) | **přeprodej z autobazaru po dvou měsících, vyřazeno 21. 8. 2026.** Rozepsáno níž |
+| Ford Tourneo Custom 310 L2 Titanium, Krefeld, 22 299 € (kandidát C) | **prodáno nebo staženo, ověřeno 21. 8. 2026.** Už předtím slabý, tři nesrovnalosti v inzerátu a chybějící tažné |
+| VW T6 Mixto Lang, Immelborn, 19 900 € (kandidát D) | **prodáno nebo staženo, ověřeno 21. 8. 2026.** Nejlevnější v poli a nejlepší řešení sedaček, škoda |
+| Renault Trafic Combi L2H1 Life, Langenfeld, 19 992 € (kandidát E) | **„temporarily unavailable" 21. 8. 2026**, rezervovaný už od 19. 8. Zájem byl stejně nejmenší z pole |
+| [Ford Tourneo Custom 310 L1 Titanium, Schüttorf, 22 980 €](https://suchen.mobile.de/fahrzeuge/details.html?id=460860921&lang=en) (kandidát G) | **L1, krátká karoserie**, ověřeno 21. 8. 2026 z pole „Trim line" a z fotky zezadu. Ložná délka o 34 cm kratší, dvě motorky za sebou se nevejdou. Jinak měl 125 kW, HU do 6/2028 a **doložený nový rozvodový řemen**, takže by v L2 byl silný kandidát |
+| [VW T6.1 Kombi Lang, Schwäbisch Gmünd, 23 650 €](https://suchen.mobile.de/fahrzeuge/details.html?id=460851964&lang=en) (kandidát H) | **trojlavice vpředu**, zjištěno 21. 8. 2026. Jinak nejzachovalejší vůz z celého pole: 6/2021, 1 majitel, bezhavarijní, HU do 6/2028, langer Radstand, obě posuvné dveře, zesílený podvozek. Padá na sedadlech |
 | Ford Tourneo Custom, FB, Mohelnice, 399 tis. | vyřazeno rozhodnutím 19. 8. 2026, hledání se přesunulo na mobile.de |
 | VW T6 Caravelle, Bazoš, Přerov, 599 tis. | nejvyšší nájezd, dvě pojistné události |
 | VW T6.1 Kombi LR, mobile.de, ~595 tis. | nejmenší riziko z celého pole, ale o 90 tis. dráž než Trafic |
 
-T6.1 je jediný z vyřazených, ke kterému má smysl se vrátit, pokud padnou A i B.
+**T6.1 je jediný z vyřazených, ke kterému má smysl se vrátit, pokud padnou A i B.** C, D a E
+se vrátit nedají, jsou pryč. Kdyby padli oba zbylí kandidáti, hledání začíná od nuly.
 
 ### Tourneo Custom z Mělníka, proč padl a co z toho platí obecně
 
