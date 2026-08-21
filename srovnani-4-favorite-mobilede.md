@@ -1,18 +1,16 @@
 # Srovnání favoritů
 
-Stav k 19. 8. 2026. Kurz 24,255 Kč/EUR. Neplátce DPH, nákup soukromě.
-Ceny jsou celkové pro nás, tedy včetně dovozu. Údaje vytažené z inzerátů 19. 8. 2026.
+Stav k 21. 8. 2026. Kurz 24,255 Kč/EUR. Neplátce DPH, nákup soukromě.
+Ceny jsou celkové pro nás, tedy včetně dovozu. Údaje z inzerátů vytažené 19. 8. 2026,
+u kandidáta A doplněné z registru vozidel 20. 8. 2026.
 
 **[Porovnání čtyř vozů z mobile.de vedle sebe](https://www.mobile.de/park/compare?id=40601665838112&id=460767109&id=461325035&id=456812287)**
-
-Značení bylo 19. 8. 2026 přerovnáno, protože do pole přibyl český vůz z Chrudimi
-a šel rovnou na první místo.
 
 ## Přehled
 
 | | Vůz | Cena | **Celkem** | 1. reg. | Nájezd | km/rok | Motor | Stav | <small>Místo, vzdál. PL / PR</small> |
 |---|---|---|---|---|---|---|---|---|---|
-| **A** | [Ford Tourneo Custom L2 125 kW](https://auto.bazos.cz/inzerat/221023382/ford-tourneo-custom-l2-125kw-57tkm.php) | 599 tis. Kč | **599 tis.** | 2018 | **57 tis.** | 7 tis. | 2.0 EcoBlue 125 kW, automat | poloviční nájezd, cena nahoře | <small>[Chrudim](https://www.google.com/maps/search/?api=1&query=537+03+Chrudim%2C+Czechia) 175 / 98 km</small> |
+| **A** | [Ford Tourneo Custom L2 125 kW](https://auto.bazos.cz/inzerat/221023382/ford-tourneo-custom-l2-125kw-57tkm.php) | 599 tis. Kč | **599 tis.** | 5/2018 | **57 tis.** | 8 tis., poslední 2 roky **1,8 tis.** | 2.0 EcoBlue 125 kW, automat | km doložené z registru, dva roky odstavený | <small>[Chrudim](https://www.google.com/maps/search/?api=1&query=537+03+Chrudim%2C+Czechia) 175 / 98 km</small> |
 | **B** | [Ford Transit Custom Kombi Trend L2](https://suchen.mobile.de/fahrzeuge/details.html?id=40601665838112&lang=en) | 22 500 € | **~565 tis.** | 2020 | 115 tis. | 19 tis. | 2.0 EcoBlue 125 kW, automat | opravená nehoda | <small>[Achstetten](https://www.google.com/maps/search/?api=1&query=Kirchstra%C3%9Fe+34%2C+88480+Achstetten-Stetten%2C+Germany) 303 / 387 km</small> |
 | **C** | [Ford Tourneo Custom 310 L2 Titanium](https://suchen.mobile.de/fahrzeuge/details.html?id=461325035&lang=en) | 22 299 € | **~565 tis.** | 2018 | 119 tis. | 14 tis. | 2.0 TDCi 125 kW, automat | inzerát nesedí | <small>[Krefeld](https://www.google.com/maps/search/?api=1&query=Untergath+188%2C+47805+Krefeld%2C+Germany) 513 / 572 km</small> |
 | **D** | [VW T6 Mixto Lang](https://suchen.mobile.de/fahrzeuge/details.html?id=460767109&lang=en) | 19 900 € | **~500 tis.** | 2017 | 125 tis. | 13,8 tis. | 2.0 TDI 110 kW, DSG | nejstarší auto v poli | <small>[Immelborn](https://www.google.com/maps/search/?api=1&query=Salzunger+Stra%C3%9Fe+49%2C+36456+Immelborn%2C+Germany) 250 / 307 km</small> |
@@ -39,6 +37,15 @@ po silnici, dvoudenní cesta).*
   u B a C je jednotlivé sedadlo spolujezdce doložené ze sedadlového paketu (16A, resp. 30),
   u A, D a E je odvozené z počtu a rozdělení míst, ne z výbavového listu
 
+**Co vyřazuje bez dalšího zkoumání:**
+
+- **cokoli, co prošlo AAA Auto, Mototechnou nebo čímkoli pod AURES Holdings a.s.**
+  Nezajímá nás jejich nabídka ani vůz, u kterého se jejich jméno objeví v historii
+  vlastnictví. Nevažuje se to proti ceně, vůz padá
+- **vůz, který v posledním roce prošel jakýmkoli autobazarem.** Ne proto, že by auto bylo
+  vadné, ale proto, že prodávající o něm neví nic nad rámec registru a v ceně jsou dvě
+  marže. Podrobně v sekci Vyřazeno
+
 ## A, Ford Tourneo Custom L2 125 kW, 05/2018, Chrudim
 
 <p>
@@ -50,15 +57,19 @@ po silnici, dvoudenní cesta).*
 Jediný český vůz v poli, prodává soukromá osoba. Inzerát běží souběžně na
 [Bazoši](https://auto.bazos.cz/inzerat/221023382/ford-tourneo-custom-l2-125kw-57tkm.php) a na
 [FB Marketplace](https://www.facebook.com/marketplace/item/887352387618327/), obojí stejný text
-i cena. Detaily, plán ověření a cenová úvaha jsou v samostatném souboru
+i cena. **20. 8. 2026 dohledán [report z registru vozidel](https://www.overeniauta.cz/vin/6E16471)**,
+VIN WF03XXTTG3HE43636. Detaily, celá kilometrová řada, historie vlastnictví, plán ověření
+a cenová úvaha jsou v samostatném souboru
 **[ford-tourneo-chrudim.md](ford-tourneo-chrudim.html)**.
 
 **Pro:**
 
-- **57 tis. km**, poloviční nájezd proti všem ostatním kandidátům
-- **ověřitelná česká historie**, bez dovozu. Registrace 5/2018 dává tři zápisy stavu
-  tachometru z technických prohlídek v Portálu dopravy, řada není přerušená.
-  Tuhle kontrolu žádný německý vůz nemá
+- **57 tis. km doložených z registru.** Pět zápisů stavu tachometru mezi 2018 a 2024,
+  plynulý průběh, žádný skok ani pokles. Poloviční nájezd proti všem ostatním kandidátům
+- **z registru sedí i všechno ostatní:** L2 potvrzená rozměry (5339 mm, rozvor 3300 mm),
+  125 kW, 1995 cm³, 1. registrace 31. 5. 2018 v ČR, modrá, kategorie M1. Inzerát nikde
+  nepřehání. Tuhle kontrolu žádný německý vůz nenabízí
+- **výška 1976 mm**, tedy francouzská mýtná třída 1, ale jen s rezervou 2,4 cm
 - **doložený servis:** olej každý rok po 10 tis. km, **před rokem olej v převodovce
   včetně proplachu**, klima plněná 6/2026
 - 8 míst, druhá a třetí řada 2+1
@@ -69,11 +80,19 @@ i cena. Detaily, plán ověření a cenová úvaha jsou v samostatném souboru
 **Proti:**
 
 - **nejdražší v poli**, 599 tis. proti 565 tis. u německých Fordů včetně dovozu
+- **od 9/2024 najeto asi 3 400 km, tedy ~1 750 km ročně.** Vůz skoro dva roky stojí.
+  Podpírá to chybějící dálniční známka i to, že se v 6/2026 plnila klimatizace.
+  Počítat s položkami ze stání: pneumatiky podle stáří, akumulátor, brzdy, nasycený DPF
+- **STK vyprší 13. 9. 2026**, tedy do měsíce. Dohromady s nehomologovanými dodělanými
+  světly je to problém na hned, ne na později
+- **prvním uživatelem byla pečovatelská a rehabilitační služba** (3 roky na leasing),
+  tedy rozvoz po městě. Krátké jízdy potvrzené, ne odhadované. Současný soukromý majitel
+  je od 8/2021, je druhý reálný uživatel
 - inzerát visí **18 týdnů**, majitel ho 4. 8. topoval, cena je nasazená vysoko
 - **dodělané bi-LED projektory s laserem** v předních světlech, bez dokladu je to riziko
   na STK. Řešitelné, ale je to páka na cenu
-- 7 tis. km ročně jsou krátké jízdy, u dieselu s DPF horší provoz než dálnice
-- emisní norma v inzerátu není, u ročníku 2018 je Euro 6 pravděpodobná, ale nedoložená
+- emisní norma není v inzerátu ani v registru, u ročníku 2018 je Euro 6 pravděpodobná,
+  ale nedoložená
 
 Tažné 1 100 kg je u téhle motorizace s automatem běžné, nebereme to jako minus.
 Vestavbu prodejce nabízí, ale nepotřebujeme ji, vlastní už existuje.
@@ -195,19 +214,24 @@ z celého pole, drží se jen jako poslední záloha.
 
 ## Závěr
 
-**A jde rovnou na první místo a mění povahu celého výběru.** Až dosud se rozhodovalo mezi
-vozy se 115 až 148 tis. km, u kterých je servisní historie tvrzením prodejce a část života
-neověřitelná. Tenhle má poloviční nájezd, doložený servis včetně oleje v převodovce
-s proplachem, a hlavně **jde ověřit od stolu**: české STK od roku 2018 dávají tři zápisy
-tachometru v Portálu dopravy, žádný z německých vozů takovou kontrolu nenabízí.
+**A zůstává první, ale z jiného důvodu než včera.** Registr potvrdil to, co byla hlavní
+otevřená otázka: 57 tis. km sedí, pět zápisů tachometru mezi 2018 a 2024 jde plynule nahoru,
+žádný zlom. Sedí i L2, výkon, objem, datum a barva. Vůz je český od nova. **Riziko stočeného
+tachometru je vyřešené, a to je věc, kterou u žádného z německých vozů vyřešit nejde.**
 
-Za to se platí 34 tis. Kč navíc proti B a C a cena je nasazená vysoko, což potvrzuje
-18 týdnů na trhu. **Cílová hladina 550 až 570 tis. Kč, otevřít kolem 530.** Na tomhle
-se shodujeme. Páky na slevu jsou doba na trhu, chybějící doklad k dodělaným světlům
-a soukromý prodej bez záruky.
+Zároveň registr přinesl dvě nové výhrady, obě řešitelné, obě s cenovkou. **Auto od podzimu 2024
+prakticky stojí**, najelo za dva roky 3 400 km, což znamená typické položky odstaveného vozu.
+A **STK vyprší 13. 9. 2026**, tedy do měsíce, což se nemusí potkat s nehomologovanými
+dodělanými světly. Původním uživatelem byla pečovatelská služba, takže krátké jízdy jsou teď
+doložené, ne odhadované.
 
-**B zůstává druhý** a je to pořád dobrá nabídka, jen s dvojnásobným nájezdem a přiznanou
-opravenou nehodou, kterou zatím nikdo nedoložil.
+**Cílová hladina 550 až 570 tis. Kč platí, otevřít kolem 530**, a navíc počítat rezervu
+20 až 30 tis. na uvedení stojícího vozu do provozu. Páky na slevu v pořadí podle síly:
+18 týdnů na trhu, STK do měsíce proti nehomologovaným světlům, dvouletý odstavený provoz,
+soukromý prodej bez záruky.
+
+**B zůstává druhý** a je to pořád dobrá nabídka, jen s dvojnásobným nájezdem, přiznanou
+opravenou nehodou, kterou zatím nikdo nedoložil, a bez možnosti ověřit kilometry z registru.
 
 **C je slabý** kvůli třem nesrovnalostem v inzerátu a chybějícímu tažnému.
 **D je levná alternativa** s nejlepším řešením sedaček, ale nejstarší.
@@ -215,23 +239,28 @@ opravenou nehodou, kterou zatím nikdo nedoložil.
 
 ## Další krok, v tomhle pořadí
 
-1. **A, domluvit prohlídku v Chrudimi.** 98 km z Prahy, dá se stihnout na půl dne.
-   Tloušťkoměr, podlaha a kotvicí body, stav DPF, zkušební jízda s automatem
-2. **A, zeptat se na doklad k dodělaným světlům**, emisní normu z technického průkazu,
-   počet majitelů a servisní knihu
-3. **B, doklad o opravě nehody.** Faktura nebo zakázkový list z Ford servisu, ne slovní popis,
+1. **A, zeptat se, proč vůz od podzimu 2024 stojí.** Tohle je teď hlavní otázka.
+   Odpověď rozhoduje, jestli je nízký nájezd výhoda, nebo varování
+2. **A, zeptat se na STK a světla.** Platnost končí 13. 9. 2026. Jestli ji prodejce
+   plánuje protáhnout, a jestli má doklad k dodělaným bi-LED projektorům
+3. **A, domluvit prohlídku v Chrudimi.** 98 km z Prahy, dá se stihnout na půl dne.
+   Tloušťkoměr, podlaha a kotvicí body, DOT kódy pneumatik, akumulátor, brzdové kotouče,
+   chování DPF za jízdy, zkušební jízda s automatem
+4. **A, technický průkaz:** emisní norma, počet míst, datum poslední výměny oleje
+5. **B, doklad o opravě nehody.** Faktura nebo zakázkový list z Ford servisu, ne slovní popis,
    plus výpis z Ford servisní historie kvůli rozvodovému řemenu (2.0 EcoBlue ho má v olejové
    lázni, u tohohle motoru je známé riziko, že se rozpadající řemen dostane do olejového
    okruhu; rozsah dotčených ročníků nemám ověřený) a kvůli oleji v automatu
-4. **C, napsat do Krefeldu**: Euro 5, nebo Euro 6 podle technického průkazu, kolik je
+6. **C, napsat do Krefeldu**: Euro 5, nebo Euro 6 podle technického průkazu, kolik je
    opravdu míst, a konečná cena pro soukromou osobu včetně záručního pojištění
-5. **Přeměřit vlastní motorky** ve třech výškách: kola, stupačky, řídítka
-6. **D, doložení servisu DSG**, olej po 60 tis. km, pokud A, B i C zaváhají
+7. **Přeměřit vlastní motorky** ve třech výškách: kola, stupačky, řídítka
+8. **D, doložení servisu DSG**, olej po 60 tis. km, pokud A, B i C zaváhají
 
 ## Rozměry nákladového prostoru
 
 Referenční vůz je dosavadní Ford Transit Custom L2H1. Hodnoty v cm, rozdíl proti Fordu
 v závorce. A, B i C jsou Ford Transit/Tourneo Custom L2, tedy referenční řádek.
+U A je L2 potvrzená z registru: celková délka 5339 mm, rozvor 3300 mm.
 
 | Vůz | Ložná délka | Mezi podběhy | Vnitřní výška | Zadní otvor š × v | Nakládací hrana |
 |---|---|---|---|---|---|
@@ -251,11 +280,51 @@ v závorce. A, B i C jsou Ford Transit/Tourneo Custom L2, tedy referenční řá
 
 | Vůz | Důvod |
 |---|---|
+| [Ford Tourneo Custom L2 136 kW, Bazoš, Mělník / Roudnice, 640 tis.](https://auto.bazos.cz/inzerat/222824785/custon.php) | **přeprodej z autobazaru po dvou měsících, vyřazeno 21. 8. 2026.** Rozepsáno níž |
 | Ford Tourneo Custom, FB, Mohelnice, 399 tis. | vyřazeno rozhodnutím 19. 8. 2026, hledání se přesunulo na mobile.de |
 | VW T6 Caravelle, Bazoš, Přerov, 599 tis. | nejvyšší nájezd, dvě pojistné události |
 | VW T6.1 Kombi LR, mobile.de, ~595 tis. | nejmenší riziko z celého pole, ale o 90 tis. dráž než Trafic |
 
 T6.1 je jediný z vyřazených, ke kterému má smysl se vrátit, pokud padnou A i B.
+
+### Tourneo Custom z Mělníka, proč padl a co z toho platí obecně
+
+Vůz vypadal na papíře dobře: [VIN WF03XXTTG3KT30282](https://www.overeniauta.cz/vin/7AV7536),
+1. registrace 1. 10. 2019 v ČR, 136 kW, délka 5339 mm a rozvor 3300 mm, tedy L2 potvrzená
+z registru, výška 1965 mm pod francouzskou hranicí, 8 míst, tažné, dálniční známka do 6/2027.
+Kilometry z STK jdou plynule nahoru (65 105 km v 10/2023, 123 385 km v 10/2025, 136 tis.
+podle inzerátu), stočení nic nenaznačuje.
+
+Rozhodla historie vlastnictví:
+
+| Od | Do | Kdo |
+|---|---|---|
+| 1. 10. 2019 | 26. 2. 2026 | fyzická osoba, 6 let 5 měsíců |
+| 26. 2. 2026 | 24. 6. 2026 | **AURES Holdings a.s.** (AAA Auto / Mototechna), 4 měsíce |
+| 24. 6. 2026 | dosud | fyzická osoba, **necelé 2 měsíce** |
+
+Auto šlo do výkupu autobazaru, čtyři měsíce se tam neprodalo, v červnu ho koupil soukromník
+a po osmi týdnech ho přeprodává za 640 tis. Text inzerátu je generovaný AI včetně nesmazané
+šablony `[Doplnit vaše 603 310 233]` a výbavu popisuje větou „podle vzhledu na fotce".
+Jedna z fotek je z betonové plochy autobazaru.
+
+**Pozor na formulaci: neříkáme, že je auto vadné.** Že ho někdo po dvou měsících přeprodává,
+se dá vysvětlit i jinak než skrytou vadou, a generovaný text inzerátu s výbavou popsanou
+„podle vzhledu na fotce" sedí spíš na překupníka, který koupil v bazaru levně a chce marži.
+Zklamaný majitel by auto po dvou měsících aspoň znal.
+
+**Obecné pravidlo, které z toho plyne:** vůz, který v posledním roce prošel autobazarem,
+vyřazujeme rovnou, a to proto, že
+
+- prodávající o autě neví nic nad rámec registru, servisní historii ani důvod prodeje nedoloží
+- v ceně jsou dvě marže, výkupní a přeprodejní
+- původní majitel, jediný, kdo o autě něco ví, je mimo dosah
+- když se auto v bazaru čtyři měsíce neprodá a pak jde o 8 týdnů později znovu do inzerce,
+  je ta cena z principu nad trhem
+
+**Nad rámec toho platí zvlášť pro AAA Auto, Mototechnu a cokoli pod AURES Holdings a.s.:
+tyhle vozy neřešíme vůbec**, ani jako nabídku, ani když se jejich jméno objeví jen v historii
+vlastnictví. Není to úvaha o ceně, je to podmínka.
 
 ---
 
